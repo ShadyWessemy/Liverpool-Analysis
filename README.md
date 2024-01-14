@@ -15,7 +15,6 @@ This projects aims to analyze the performance of liverpool football team in seas
 
 ### Data Sources 
 - **Kaggle:** Transfermarket data for each player.
-
 - **Fbref for football analytics:** The team stats in the target seasons.
 
 ### Tools 
@@ -23,7 +22,7 @@ This projects aims to analyze the performance of liverpool football team in seas
 - **SQL Server** - Data Analysis
 - **PowerBI** - Creating Dashboards
 
-### Data Cleaning / Preparation 
+### Data Cleaning
 
 In this phase we performed the following tasks:
 
