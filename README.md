@@ -51,6 +51,7 @@ The analysis results are summarized as follows:
 
 ### Dashboard
 ---
+![Intro](https://github.com/ShadyWessemy/Liverpool-Analysis/assets/73957793/f934a518-ff36-4593-83ee-cc7aaca9be43)
 ![Team Stats](https://github.com/ShadyWessemy/Liverpool-Analysis/assets/73957793/74cb2497-ccd5-41bf-9771-317a6b7e611a)
 ![Player Stats](https://github.com/ShadyWessemy/Liverpool-Analysis/assets/73957793/ec552fe9-b281-4a5b-9276-7c4e79f3cc43)
 ![Tactics](https://github.com/ShadyWessemy/Liverpool-Analysis/assets/73957793/f9d51eac-c809-4e52-b38d-9ee0904a7b49)
