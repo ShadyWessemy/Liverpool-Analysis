@@ -5,8 +5,10 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
-- [Data Cleaning](data-cleaning)
-- [Exploratory Data Analysis](exploratory-data-analysis)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Results](#results)
+- [Conclusion](#conclusion)
 ### Project Overview
 
 This projects aims to analyze the performance of liverpool football team in season 21-22 vs 22-23 in the primer league as they didn't qualify for the Uefa Champions League in 23-24 season because they finish the 22-23 season in the 5th. So we seek to identify the main factors that affect the team such as: team performance in away matches, tactical analysis, defensive performance and individual analysis for each player through the season. 
