@@ -8,7 +8,7 @@
 - [Data Cleaning](#data-cleaning)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Results](#results)
-- [Dashboard Screenshots](#dashboard-screenshots)
+- [Dashboard](#dashboard)
 - [Conclusion](#conclusion)
 ### Project Overview
 ---
@@ -48,7 +48,7 @@ The analysis results are summarized as follows:
 2. The defensive performance was weak in 22-23 season compared to their performance in 21-22 as the errors the players made that leads to concede goals and the goal creation actions against them get higher.
 3. They have lost more matches against the bottom half in 22-23 more than what they've lost in 21-22 and they win less matches also.
 
-### Dashboard Screenshots
+### Dashboard
 ![Player Stats](https://github.com/ShadyWessemy/Liverpool-Analysis/assets/73957793/ec552fe9-b281-4a5b-9276-7c4e79f3cc43)
 ![Team Stats](https://github.com/ShadyWessemy/Liverpool-Analysis/assets/73957793/74cb2497-ccd5-41bf-9771-317a6b7e611a)
 
