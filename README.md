@@ -1,4 +1,4 @@
-# Liverpool Performance Analysis
+# Documentation for Liverpool Performance Analysis Project
 
 ## Table of Contents
 
